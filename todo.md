@@ -8,3 +8,7 @@
 - [x] killall wofi instances before lauching a new one
     - [ ] Make it rule so to have it work system-wide?
         - how did people do rules without/before hyprland / on xorg/xlibre?
+
+- [ ] Monitors & Workspaces
+    - [ ] Arrange monitors depending of their IDs, not their names
+    - [ ] Reassign workspaces on monitor
